@@ -3,3 +3,4 @@ dist/
 *.js.map
 mission-*.json
 .DS_Store
+.env
