@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.js.map
+mission-*.json
+.DS_Store
