@@ -114,9 +114,9 @@ naruto shinobi octocat
   🔍 Searching the Ninja Registry for "octocat"...
 
   ╔══════════════════════════════════════════════╗
-  ║         🍥 SHINOBI PROFILE CARD 🍥           ║
+  ║         🍥 SHINOBI PROFILE CARD 🍥            ║
   ╠══════════════════════════════════════════════╣
-  ║  Ninja Name:      The Octocat               ║
+  ║  Ninja Name:      The Octocat                ║
   ║  Code Name:       octocat                    ║
   ║  Village:         San Francisco              ║
   ║  Completed Missions: 8                       ║
@@ -161,7 +161,7 @@ naruto wisdom
   🙏 Channeling the wisdom of the Hokage...
 
   ╔══════════════════════════════════════════════╗
-  ║        🏯 WISDOM OF THE HOKAGE 🏯            ║
+  ║        🏯 WISDOM OF THE HOKAGE 🏯             ║
   ╠══════════════════════════════════════════════╣
   ║  "When people are protecting something       ║
   ║   truly special to them, they truly can      ║
@@ -176,7 +176,7 @@ naruto jutsu
 ```
 ```
   ╔══════════════════════════════════════════════╗
-  ║         🌀 JUTSU GENERATOR 🌀                ║
+  ║         🌀 JUTSU GENERATOR 🌀                 ║
   ╠══════════════════════════════════════════════╣
   ║  Technique:  Fire Style: Grand Fireball      ║
   ║  Rank:       A-Rank                          ║
@@ -192,7 +192,7 @@ naruto chakra
 ```
 ```
   ╔══════════════════════════════════════════════╗
-  ║          ⚡ CHAKRA ANALYSIS ⚡                ║
+  ║          ⚡ CHAKRA ANALYSIS ⚡                 ║
   ╠══════════════════════════════════════════════╣
   ║  Chakra Level:  742 / 1000                   ║
   ║  Ninja Rank:    Jonin                        ║
